@@ -7,7 +7,7 @@ A simple RESTful API using Express.js with in-memory data, authentication middle
 - Node.js (v14+)
 - npm
 
-## Setup
+## Setup & API ROUTES
 
 ```bash
 npm init -y
