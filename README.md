@@ -16,7 +16,7 @@ npm i express
 # copy files provided (middleware/auth.js, routes/items.js, app.js modifications)
 node server.js
 
-# API Routes
+-----------------------------API Routes-----------------------------
 
 ** Authorization: Bearer mysecrettoken **
 
@@ -38,7 +38,7 @@ PUT http://localhost:3000/api/items/id
  "Authorization: Bearer mysecrettoken"
    "Content-Type: application/json" 
   '{"price":1.5}'
-
+  
 
 Delete Item by ID :
 DELETE -H "Authorization: Bearer mysecrettoken"
