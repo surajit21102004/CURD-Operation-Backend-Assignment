@@ -45,3 +45,5 @@ DELETE -H "Authorization: Bearer mysecrettoken"
 http://localhost:3000/api/items/id
 
 
+Posteman API Testing Link : https://swapanmandalrishra-9319210.postman.co/workspace/My-Workspace~cca5107a-50aa-4246-a36f-c3070f61bda6/collection/47648239-8507a0b6-1705-4570-941a-db08d49635b7?action=share&creator=47648239
+
